@@ -5,3 +5,6 @@ Drawing Book
 
 Box File
 Cradboard File
+
+Color Paper
+Plain Paper
